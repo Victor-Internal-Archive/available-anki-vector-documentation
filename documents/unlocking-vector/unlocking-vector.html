@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Unlocking Vector | Froggitti</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        h1 {
+            color: #00b4ff;
+            margin-top: 30px;
+        }
+        hr {
+            border: 1px solid #444;
+            margin: 25px 0;
+        }
+        p {
+            line-height: 1.6;
+            margin: 15px 0;
+        }
+        a {
+            color: #00b4ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        b {
+            color: #00ffaa;
+        }
+    </style>
+    <link rel="icon" type="image/png" href="https://www.froggitti.net/favicon.ico">
+</head>
+<body>
+    <div class="container">
+        <h1>Unlocking Vector</h1>
+        <hr>
+	<h1>Note: Make sure your Vector is on the charger during the ENTIRE unlock process. Failure to do so can brick your robot permanently.</h1>
+        <p>Step 1: Put your Vector into recovery mode by putting him on the charger, and holding his back button for ~15 seconds or until the 2 back lights turn dark blue.</p>
+        
+        <p>Step 2: Head on over to <a href="https://websetup.froggitti.net">this site</a>.</p>
+        
+	<p>Step 3: On this site, you will see options for stacks. Select the <b>Utility</b> stack.</p>
+
+	<p>Step 4: Pair with Vector. <b>Make sure to keep "auto flow setup" checked.</b></p>
+
+	<p>Step 5: Connect to WiFi, and then select <b>Unlock-Prod.ota</b>.</p>         
+
+	<p>Step 6: Let Vector reboot, and flash the new images. (The proccess can take over 10 minutes so be patient)</p>
+	
+	<p>Congratulations. You have unlocked your Vector, and can now install developer firmware.</p>
+        <hr>
+        <h1>Installing dev firmware</h1>
+        <p>Once Vector is on either the anki.com/dev screen or the u.p-2.xyz screen, head on over to <a href="https://websetup.froggitti.net">this site</a>, select the <b>Custom Firmware</b> stack, and then select your firmware of choice. Enjoy!</p>
+        <hr>
+        <h1>SSHing into Vector</h1>
+        <p>Step 1: Download <a href="https://www.froggitti.net/ssh_root_key">this</a> ssh key.</p>
+        
+        <p>Step 2: Find Vector's IP. You can do this by accessing the <a href="https://support.digitaldreamlabs.com/article/531-vector-ccis">CCIS menu</a> once he is connected to WiFi.</p>
+        
+        <p>Step 3: SSH in! You can do this by running:<p>
+	<p> <b>ssh -i path/to/ssh_root_key root@yourvectorip</b></p>
+        <hr>
+        <h1>Troubleshooting</h1>
+        <p>Running into a pubkey error while trying to SSH into Vector? Try sshing with this command:</p> 
+	<p><b>ssh -o PubkeyAcceptedAlgorithms=+ssh-rsa -o HostKeyAlgorithms=+ssh-rsa -i path/to/ssh_root_key root@yourvectorip</b></p>
+    </div>
+</body>
+</html>
