@@ -58,7 +58,7 @@ Wikipedia page, mostly about Vector's history.
 
 Language: Easy
 
-# [Vector prototypes](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/vector-prototypes.md)
+## [Vector prototypes](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/vector-prototypes.md)
 
 Vector's developmental stages
 
