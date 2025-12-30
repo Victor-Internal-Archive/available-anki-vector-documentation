@@ -55,7 +55,7 @@ copy to the robot. For this you will need:
 
 * An animated .gif with a resolution of 184x96 pixels
 
-* The script `gif_to_raw.py` to convert the .gif to a raw image.
+* The script `gif_to_raw.py` for Vector 1.0 and `gif_to_raw-2.0.py` for Vector 2.0 to convert the .gif to a raw image.
 
 Both the script and a sample image called `bootscreen.gif` are located
 in the github repository for this document under the
