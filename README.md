@@ -40,6 +40,7 @@ The Unofficial Anki/DDL Wiki.
 Language: Easy
 
 ## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
+
 A guide on how to unlock production bots via cpu swap, includes other useful info too!
 
 (CPU swapping isn't needed anymore to unlock bots, see [how to unlock prod bots](https://unlock-prod.froggitti.net/))
@@ -63,6 +64,12 @@ Language: Easy
 Vector's developmental stages
 
 Language: Easy
+
+## [Info on Unlocking Vector](https://github.com/kercre123/unlocking-vector)
+
+This was made before signing keys were leaked, so it's a bit outdated. Still pretty informative.
+
+Language: Pretty easy
 
 ## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
