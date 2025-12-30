@@ -31,7 +31,7 @@ Language: Pretty easy
 
 All about the domestic voice server for Vector
 
-Language: easy
+Language: Easy
 
 ## [Ankibots](https://ankibots.wiki/Main_Page)
 
@@ -45,6 +45,11 @@ A guide on how to unlock production bots.
 
 Language: Easy
 
+## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
+A guide on how to unlock production bots via cpu swap, includes other useful info too!
+
+Language: Extremely Technical
+
 ## [OSKR Owner's Manual](https://modder.my.to/oskr-owners-manual/index.html)
 
 A bit outdated and about OSKR, but still usefull for dev purposes.
@@ -54,7 +59,7 @@ Language: Technical
 ## [Wikipedia page](https://en.wikipedia.org/wiki/Anki_(American_company)#Vector)
 Wikipedia page, mostly about Vector's history.
 
-Language: easy
+Language: Easy
 
 ## [Anki OTAs archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
