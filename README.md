@@ -39,12 +39,6 @@ The Unofficial Anki/DDL Wiki.
 
 Language: Easy
 
-## [Unlocking Vector (CPU SWAP)](https://github.com/kercre123/unlocking-vector)
-
-A 
-
-Language: Extremely Technical
-
 ## [OSKR Owner's Manual](https://modder.my.to/oskr-owners-manual/index.html)
 
 A bit outdated and about OSKR, but still usefull for dev purposes.
