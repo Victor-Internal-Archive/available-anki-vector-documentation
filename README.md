@@ -95,3 +95,5 @@ Usage difficulty: Medium
 DEV OTAs give SHH access to the linux system. It's useful to know the custom Vector commands
 
 ## [Bluetooth terminal commands](https://github.com/claudix29/available-anki-vector-documentation/blob/main/documents/bluetooth-commands.md)
+
+You can use those in the Bluetooth terminal, for example with no-flow devsetup 
