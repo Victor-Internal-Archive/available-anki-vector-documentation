@@ -19,7 +19,7 @@ Language: Technical
 
 In-depth techincal description, explores how Vector and its accessories are made and how they work. It's probably the most articulated and thorough document available.
 
-Language: Technical
+Language: Very Technical
 
 ## [Vector-Docs](https://os-vector.github.io/vector-docs/)
 
@@ -61,7 +61,7 @@ Language: Easy
 
 Vector's developmental stages
 
-Language: Easy
+Language: Technical
 
 ## [Info on Unlocking Vector](https://github.com/kercre123/unlocking-vector)
 
