@@ -27,6 +27,12 @@ Practical and quick guide. It briefly explains vector's history, software and ha
 
 Language: Somewhat Technical
 
+## [Vector Documentation by Randym32](https://randym32.github.io/Anki.Vector.Documentation/index.html)
+
+Overview of various Vector-related topics and some useful guides and how-to's
+
+Language: Semi-Technical and Technical
+
 ## [WireOS](https://github.com/os-vector/wire-os/blob/main/README.md) and [wire-os-victor](https://github.com/os-vector/wire-os-victor)
 
 All about Wire-OS, the modern and updated custom firmware which serves as a base for all of the other ones. Information on how to develop, test and build full OTAs / personality code are available here.
@@ -73,6 +79,10 @@ It includes a guide on how to unlock production bots via CPU swap, and other use
 This was made before signing keys were leaked, so it's a bit outdated. Still pretty informative.
 
 Language: Technical
+
+## [Vector custom bodyboard](https://github.com/Lrdsnow/CustomVectorBody)
+
+Info on the efforts to make a open source, custom bodyboard
 
 ## [Anki OTAs Archive](https://archive.org/download/Anki-proto-prod-Vector-firmware)
 
