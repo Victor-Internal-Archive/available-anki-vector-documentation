@@ -1,378 +1,315 @@
-::: {#mainNav .navbar}
-::: navbar-inner
-::: container-fluid
-[![Digital Dream Labs Knowledge
-Base](//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png){width="195"
-height="75"}](https://support.digitaldreamlabs.com/){.brand}
+-   [Contact](#)
 
-[Toggle Navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
-
-::: {.nav-collapse .collapse}
--   [[Home ](/)]{#home}
--   [[General Information
-    ](/collection/1-general-information)]{#general-information}
--   [[Vector ](/collection/6-vector)]{#vector}
--   [[Cozmo ](/collection/9-cozmo)]{#cozmo}
--   [[OverDrive ](/collection/62-overdrive)]{#overdrive}
--   [[Escape Pod ](/collection/364-escape-pod)]{#escape-pod}
--   [[Puzzlets ](/collection/325-puzzlets)]{#puzzlets}
--   [[Contact](#){.contactUs onclick="window.Beacon('open')"}]{#contact}
--   [[Contact](#){.contactUs
-    onclick="window.Beacon('open')"}]{#contactMobile}
-:::
-:::
-:::
-:::
-
-::: {#docsSearch .section}
 # Common Questions & Troubleshooting
 
 Search
 
-::: {#serp-dd style="display:none;"}
-:::
-:::
-
-::: {#contentArea .section .container-fluid}
-::: {#noResults style="display:none;"}
 No results found
-:::
 
-::: {#collection-category-1 .section .collection-category}
-## [General Information](/collection/1-general-information) {#collection-1}
+## [General Information](/collection/1-general-information)
 
-::: {.section .category-list}
-[](/category/386-policies){#category-386 .category}
+[](/category/386-policies)
 
 ### Policies
 
-[1]{.notranslate} article
+1 article
 
-[](/category/518-repair-center){#category-518 .category}
+[](/category/518-repair-center)
 
 ### Repair Center
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/512-state-of-manufacturing){#category-512 .category}
+[](/category/512-state-of-manufacturing)
 
 ### State of Manufacturing
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/36-anki){#category-36 .category}
+[](/category/36-anki)
 
 ### Anki & Digital Dream Labs
 
-[1]{.notranslate} article
-:::
-:::
+1 article
 
-::: {#collection-category-6 .section .collection-category}
-## [Vector](/collection/6-vector) {#collection-6}
+## [Vector](/collection/6-vector)
 
-::: {.section .category-list}
-[](/category/524-customer-care-information-screen){#category-524
-.category}
+[](/category/524-customer-care-information-screen)
 
 ### Customer Care Information Screen
 
-[1]{.notranslate} article
+1 article
 
-[](/category/15-frequently-asked-questions){#category-15 .category}
+[](/category/15-frequently-asked-questions)
 
 ### Frequently Asked Questions
 
-[8]{.notranslate} articles
+8 articles
 
-[](/category/486-vector-membership){#category-486 .category}
+[](/category/486-vector-membership)
 
 ### Vector Membership
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/491-setting-vector-up){#category-491 .category}
+[](/category/491-setting-vector-up)
 
 ### Setting Vector Up
 
-[12]{.notranslate} articles
+12 articles
 
-[](/category/483-software-updates){#category-483 .category}
+[](/category/483-software-updates)
 
 ### Software Updates
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/74-living-with-vector){#category-74 .category}
+[](/category/74-living-with-vector)
 
 ### Interacting with Vector
 
-[12]{.notranslate} articles
+12 articles
 
-[](/category/489-charging-power){#category-489 .category}
+[](/category/489-charging-power)
 
 ### Charging & Power
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/482-vectors-cube){#category-482 .category}
+[](/category/482-vectors-cube)
 
-### Vector\'s Cube
+### Vector's Cube
 
-[1]{.notranslate} article
+1 article
 
-[](/category/484-documents-manuals){#category-484 .category}
+[](/category/484-documents-manuals)
 
 ### Documents & Manuals
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/487-reset-vector){#category-487 .category}
+[](/category/487-reset-vector)
 
 ### Reset Vector
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/343-oskr){#category-343 .category}
+[](/category/343-oskr)
 
 ### Open Source Kit for Robotics
 
-[4]{.notranslate} articles
+4 articles
 
-[](/category/67-product-information){#category-67 .category}
+[](/category/67-product-information)
 
 ### Product Information
 
-[1]{.notranslate} article
+1 article
 
-[](/category/34-sdk-information){#category-34 .category}
+[](/category/34-sdk-information)
 
 ### SDK Information
 
-[1]{.notranslate} article
+1 article
 
-[](/category/481-connection-troubleshooting){#category-481 .category}
+[](/category/481-connection-troubleshooting)
 
 ### Connection Troubleshooting
 
-[12]{.notranslate} articles
+12 articles
 
-[](/category/488-error-troubleshooting){#category-488 .category}
+[](/category/488-error-troubleshooting)
 
 ### Error Troubleshooting
 
-[10]{.notranslate} articles
+10 articles
 
-[](/category/490-speech-recognition-troubleshooting){#category-490
-.category}
+[](/category/490-speech-recognition-troubleshooting)
 
 ### Speech Recognition Troubleshooting
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/485-sound-troubleshooting){#category-485 .category}
+[](/category/485-sound-troubleshooting)
 
 ### Sound Troubleshooting
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/16-troubleshooting){#category-16 .category}
+[](/category/16-troubleshooting)
 
 ### Technical Troubleshooting
 
-[2]{.notranslate} articles
-:::
-:::
+2 articles
 
-::: {#collection-category-9 .section .collection-category}
-## [Cozmo](/collection/9-cozmo) {#collection-9}
+## [Cozmo](/collection/9-cozmo)
 
-::: {.section .category-list}
-[](/category/18-frequently-asked-questions){#category-18 .category}
+[](/category/18-frequently-asked-questions)
 
 ### Frequently Asked Questions
 
-[21]{.notranslate} articles
+21 articles
 
-[](/category/496-setting-cozmo-up){#category-496 .category}
+[](/category/496-setting-cozmo-up)
 
 ### Setting Cozmo Up
 
-[8]{.notranslate} articles
+8 articles
 
-[](/category/492-charging-power){#category-492 .category}
+[](/category/492-charging-power)
 
 ### Charging & Power
 
-[5]{.notranslate} articles
+5 articles
 
-[](/category/499-cozmo-cubes-accessories){#category-499 .category}
+[](/category/499-cozmo-cubes-accessories)
 
 ### Cozmo Cubes & Accessories
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/19-tips-tricks){#category-19 .category}
+[](/category/19-tips-tricks)
 
 ### Tips & Tricks
 
-[9]{.notranslate} articles
+9 articles
 
-[](/category/494-reset-cozmo){#category-494 .category}
+[](/category/494-reset-cozmo)
 
 ### Reset Cozmo
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/495-code-lab){#category-495 .category}
+[](/category/495-code-lab)
 
 ### Code Lab
 
-[1]{.notranslate} article
+1 article
 
-[](/category/498-education-mode){#category-498 .category}
+[](/category/498-education-mode)
 
 ### Education Mode
 
-[1]{.notranslate} article
+1 article
 
-[](/category/35-sdk-information){#category-35 .category}
+[](/category/35-sdk-information)
 
 ### SDK Information
 
-[1]{.notranslate} article
+1 article
 
-[](/category/503-privacy-security){#category-503 .category}
+[](/category/503-privacy-security)
 
 ### Privacy & Security
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/502-error-troubleshooting){#category-502 .category}
+[](/category/502-error-troubleshooting)
 
 ### Error Troubleshooting
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/501-sound-troubleshooting){#category-501 .category}
+[](/category/501-sound-troubleshooting)
 
 ### Sound Troubleshooting
 
-[2]{.notranslate} articles
+2 articles
 
-[](/category/497-connection-troubleshooting){#category-497 .category}
+[](/category/497-connection-troubleshooting)
 
 ### Connection Troubleshooting
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/493-documents-manuals){#category-493 .category}
-
-### Documents & Manuals
-
-[3]{.notranslate} articles
-:::
-:::
-
-::: {#collection-category-62 .section .collection-category}
-## [OverDrive](/collection/62-overdrive) {#collection-62}
-
-::: {.section .category-list}
-[](/category/511-documents-manuals){#category-511 .category}
+[](/category/493-documents-manuals)
 
 ### Documents & Manuals
 
-[4]{.notranslate} articles
+3 articles
 
-[](/category/508-frequently-asked-questions){#category-508 .category}
+## [OverDrive](/collection/62-overdrive)
+
+[](/category/511-documents-manuals)
+
+### Documents & Manuals
+
+4 articles
+
+[](/category/508-frequently-asked-questions)
 
 ### Frequently Asked Questions
 
-[10]{.notranslate} articles
+10 articles
 
-[](/category/506-legacy-products){#category-506 .category}
+[](/category/506-legacy-products)
 
 ### Legacy Products
 
-[9]{.notranslate} articles
+9 articles
 
-[](/category/505-overdrive-26-relaunched){#category-505 .category}
+[](/category/505-overdrive-26-relaunched)
 
 ### OverDrive 2.6 Relaunched
 
-[23]{.notranslate} articles
+23 articles
 
-[](/category/507-track-car-maintenance){#category-507 .category}
+[](/category/507-track-car-maintenance)
 
 ### Track & Car Maintenance
 
-[6]{.notranslate} articles
+6 articles
 
-[](/category/509-track-tips){#category-509 .category}
+[](/category/509-track-tips)
 
 ### Track Tips
 
-[6]{.notranslate} articles
+6 articles
 
-[](/category/328-technical-issues-troubleshooting){#category-328
-.category}
+[](/category/328-technical-issues-troubleshooting)
 
 ### Technical Troubleshooting
 
-[6]{.notranslate} articles
-:::
-:::
+6 articles
 
-::: {#collection-category-364 .section .collection-category}
-## [Escape Pod](/collection/364-escape-pod) {#collection-364}
+## [Escape Pod](/collection/364-escape-pod)
 
-::: {.section .category-list}
-[](/category/369-general-information){#category-369 .category}
+[](/category/369-general-information)
 
-### General Information {#general-information}
+### General Information
 
-[8]{.notranslate} articles
+8 articles
 
-[](/category/367-launching-your-escape-pod){#category-367 .category}
+[](/category/367-launching-your-escape-pod)
 
 ### Launching Your Escape Pod
 
-[4]{.notranslate} articles
+4 articles
 
-[](/category/375-troubleshooting){#category-375 .category}
+[](/category/375-troubleshooting)
 
 ### Troubleshooting
 
-[4]{.notranslate} articles
+4 articles
 
-[](/category/368-developer-tools){#category-368 .category}
+[](/category/368-developer-tools)
 
 ### Advanced Configuration
 
-[4]{.notranslate} articles
-:::
-:::
+4 articles
 
-::: {#collection-category-325 .section .collection-category}
-## [Puzzlets](/collection/325-puzzlets) {#collection-325}
+## [Puzzlets](/collection/325-puzzlets)
 
-::: {.section .category-list .two-col}
-[](/category/336-game-information){#category-336 .category}
+[](/category/336-game-information)
 
 ### Game Information
 
-[3]{.notranslate} articles
+3 articles
 
-[](/category/335-technical-assistance){#category-335 .category}
+[](/category/335-technical-assistance)
 
 ### Technical Assistance
 
-[5]{.notranslate} articles
-:::
-:::
+5 articles
 
-© [Digital Dream Labs](https://support.digitaldreamlabs.com/) 2023.
-Powered by [Help
-Scout](https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding){rel="nofollow noopener noreferrer"
-target="_blank"}
-:::
+© [Digital Dream Labs](https://support.digitaldreamlabs.com/) 2023. Powered by [Help Scout](https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)

@@ -1,10 +1,5 @@
 #!/bin/bash
 
-echo "Its 3am, im tired asf, I asked ai to build this script for me, I'm sorry"
-echo "Waiting 5 seconds"
-
-sleep 5
-
 # HTML to Markdown Recursive Converter (works with or without .html extension)
 # Usage: ./convert_html_to_md.sh [directory]
 
@@ -37,7 +32,7 @@ skipped=0
 
 # Find all files recursively and check if they're HTML
 while IFS= read -r -d '' file; do
-    # Check if file is HTML by looking at content (first line or file command)
+    # Check if file is HTML by looking at content
     if file -b --mime-type "$file" | grep -q "text/html"; then
         is_html=true
     elif head -n 1 "$file" 2>/dev/null | grep -qi "<!doctype html\|<html"; then
@@ -48,13 +43,11 @@ while IFS= read -r -d '' file; do
     
     if [ "$is_html" = true ]; then
         # Generate output filename
-        # If file already ends in .html or .htm, replace it
         if [[ "$file" == *.html ]]; then
             md_file="${file%.html}.md"
         elif [[ "$file" == *.htm ]]; then
             md_file="${file%.htm}.md"
         else
-            # Otherwise just add .md
             md_file="${file}.md"
         fi
         
@@ -67,8 +60,33 @@ while IFS= read -r -d '' file; do
         
         echo "Converting: $file"
         
-        # Convert using pandoc
-        if pandoc "$file" -f html -t markdown -o "$md_file" 2>/dev/null; then
+        # Convert using pandoc with options to clean up output
+        # --wrap=none prevents unwanted line breaks
+        # --reference-links puts links at bottom
+        # -t markdown_strict for cleaner output
+        if pandoc "$file" -f html -t markdown_strict+pipe_tables-raw_html \
+            --wrap=none \
+            --strip-comments \
+            -o "$md_file" 2>/dev/null; then
+            
+            # Post-process to clean up common issues
+            # Remove excessive blank lines, clean up formatting
+            sed -i.bak \
+                -e '/^:::.*$/d' \
+                -e 's/\[\]{\..*}//g' \
+                -e 's/\[Toggle.*\]{\.sr-only}//g' \
+                -e 's/\[Toggle Navigation\]//g' \
+                -e 's/\[Toggle Search\]//g' \
+                -e '/\[!\[Digital Dream Labs Knowledge Base\]/,/^-   \[Contact\]/d' \
+                -e '/^### Categories$/,/^© \[Digital Dream Labs\]/d' \
+                -e 's/\[\](javascript:[^)]*)[^]]*//g' \
+                -e '/^No results found$/d' \
+                -e '/^\s*$/N;/^\n$/D' \
+                "$md_file" 2>/dev/null
+            
+            # Remove backup file
+            rm -f "${md_file}.bak"
+            
             echo "  ✓ Created: $md_file"
             ((converted++))
         else
@@ -85,3 +103,6 @@ echo "Conversion complete!"
 echo "Successfully converted: $converted files"
 echo "Failed: $failed files"
 echo "Skipped (already converted): $skipped files"
+echo ""
+echo "Note: Converted files have been cleaned to remove navigation"
+echo "and other non-content elements. Review output for quality."
