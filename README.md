@@ -69,12 +69,17 @@ Vector's developmental stages
 
 Language: Technical
 
+## [Vector's self-test error codes](./documents/self-test-errors.md)
+
+List of Vector's self-test error codes
+
+Language: Semi-Technical and Technical
+
 ## [Info on Unlocking Vector](https://github.com/kercre123/unlocking-vector)
 
 It includes a guide on how to unlock production bots via CPU swap, and other useful info too!
 
 (CPU swapping isn't needed anymore to unlock bots, see [how to unlock prod bots](https://unlock-prod.froggitti.net/))
-
 
 This was made before signing keys were leaked, so it's a bit outdated. Still pretty informative.
 
