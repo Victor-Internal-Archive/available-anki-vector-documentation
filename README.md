@@ -103,7 +103,7 @@ Info on the efforts to make a open source, custom bodyboard
 
 It stores all sorts of OTAs (Over-The-Air updates; firmware).
 
-##[Vector animations documents](https://github.com/digital-dream-labs/vector-animations-build/blob/main/documentation/CHARACTER%20LOGIC%20for%20One%20Off%20Animations.md)
+## [Vector animations documents](https://github.com/digital-dream-labs/vector-animations-build/blob/main/documentation/CHARACTER%20LOGIC%20for%20One%20Off%20Animations.md)
 
 Info on animations, both implemented and non-implemented. It serves as a guide to make animations coherent To vector.
 
