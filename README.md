@@ -85,6 +85,13 @@ This was made before signing keys were leaked, so it's a bit outdated. Still pre
 
 Language: Technical
 
+## [Lrdsnow docs](https://docs.lrdsnow.app/docs)
+
+Documents made by Lrdsnow, an Anki employee. You can find here:
+
+-Vector and Cozmo body informations
+-Vector cube informations and modding (rechargable cube)
+
 ## [Vector custom bodyboard](https://github.com/Lrdsnow/CustomVectorBody)
 
 Info on the efforts to make a open source, custom bodyboard
