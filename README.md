@@ -93,7 +93,7 @@ Documents made by Lrdsnow, an Anki employee. You can find here:
 
 - Vector cube informations and modding (rechargable cube)
 
-Language: 
+Language: Technical 
 
 ## [Vector custom bodyboard](https://github.com/Lrdsnow/CustomVectorBody)
 
